@@ -5,5 +5,4 @@ print("hello world");
 print("Tell your world");
 print("Tell his World");
 print("Tell her world");
-//추가
 print("Tell My World");
